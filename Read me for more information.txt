@@ -1,0 +1,32 @@
+https://drive.google.com/drive/folders/1h9Bxxxa14kL_ypttls-AmJrXfCDGllVF?usp=sharing
+
+The link above brings you to my folder on Google Drive that contains Excel Spreadsheets for the analysis.
+
+Due to the file upload size limit, I could not directly upload these .xlsx files onto GitHub.
+
+There are 5 files:
+
+1. Divvy_Trips_2019_Full.xlsx
+2. Divvy_Trips_2019_Q1.xlsx
+3. Divvy_Trips_2019_Q2.xlsx
+4. Divvy_Trips_2019_Q3.xlsx
+5. Divvy_Trips_2019_Q4.xlsx
+
+Contents of each file:
+
+Divvy_Trips_2019_Full.xlsx
+- This is a summary file of the analysis, containing results from every quarter.
+- 4 sheets, each containing pivot tables and visualizations of the analysis for each quarter.
+
+
+Divvy_Trips_2019_Q1.xlsx
+Divvy_Trips_2019_Q2.xlsx
+Divvy_Trips_2019_Q3.xlsx
+Divvy_Trips_2019_Q4.xlsx
+
+- 1 sheet of cleaned data used.
+- 1 sheet of pivot tables.
+
+Thank you for viewing this project!
+
+- Steven Z.
